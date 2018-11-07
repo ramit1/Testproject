@@ -1,0 +1,3 @@
+username = test
+passsword = Admin#786
+id_rsa = "dgdggddgdg353533333333333333fggdgdgddgdgdggdddggd"
